@@ -1,5 +1,5 @@
 # DA Intern Assessment
-This is an assessment for the Genius League Data Analyst Internship. We are given a data set provided by Evil Geniuses. This data set includes information regarding posts from Evil Geniuses's social media accounts. We will be answering a series of questions to best come up with a strategy to expand Evil Geniuses's social channels.
+This is an assessment for the Genius League Data Analyst Internship. Evil Geniuses has provided us with a data set. This data set includes information regarding posts from Evil Geniuses's social media accounts. We will be answering a series of questions to best come up with a strategy to expand Evil Geniuses's social channels.
 
 The data set includes the following columns:
 | Column  | Description |
